@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-import GlobalStyles    from "./components/GlobalStyles.jsx";
+import GlobalStyles    from "./components/Globalstyles.jsx";
 import Navbar          from "./components/Navbar.jsx";
 import Hero            from "./components/Hero.jsx";
 import Projects        from "./components/Projects.jsx";
